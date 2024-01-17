@@ -4,13 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Active Student
 --------------
 
-I am a student who love to gain knowledge and experience as much as possible
+I am a student who love to gain knowledge and experience.
 
 * 🌍  I'm based in Batu Pahat, Johor
 * ✉️  You can contact me at [afiq041204@gmail.com](mailto:afiq041204@gmail.com)
 * 🧠  I'm learning Technology Information and System
 * 🤝  I'm open to collaborating on Project
 * ⚡  I am a quiet person and not shy person.
+
+EDUCATION
+----------
+🧑‍🎓 Kolej Matrikulasi Johor
+    -CGPA 4.0
 
 ### Skills
 
