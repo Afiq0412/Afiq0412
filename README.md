@@ -12,10 +12,21 @@ I am a student who love to gain knowledge and experience.
 * 🤝  I'm open to collaborating on Project
 * ⚡  I am a quiet person and not shy person.
 
-EDUCATION
-----------
-🧑‍🎓 Kolej Matrikulasi Johor
-    -CGPA 4.0
+EDUCATION🎓
+-------------
+~ Sekolah Menengah Kebangsaan Permas Jaya 3 (SMKPJ3) | 2021-2022
+ - Sijil Pelajaran Malaysia (SPM)
+~ Kolej Matrikulasi Johor (KMJ) | 2022-2023
+ - Matriculation Science Physical 
+~ Universiti Teknologi Malaysia (UTM) | 2023-now
+ - SECPH Sarjana Muda Sains Komputer (Kejuruteraan Data) dengan Kepujian
+
+Certificate 📄
+-------------
+*📜 SPM 3A 5B (1A+ 2A 3B+ 2B)
+*📜 MATRICULATION (CGPA 4.0)
+*📜 MUET (3.5)
+
 
 ### Skills
 
