@@ -23,16 +23,23 @@ EDUCATION🎓
 ~ Universiti Teknologi Malaysia (UTM) | 2023-now
  - SECPH Sarjana Muda Sains Komputer (Kejuruteraan Data) dengan Kepujian
 
-Certificate 📄
+CERTIFICATE 📄
 -------------
-*📜 SPM 3A 5B (1A+ 2A 3B+ 2B)
+* 📜 SPM 3A 5B (1A+ 2A 3B+ 2B)
 
-*📜 MATRICULATION (CGPA 4.0)
+* 📜 MATRICULATION (CGPA 4.0)
 
-*📜 MUET (3.5)
+* 📜 MUET (3.5)
 
-COURSES
---------
+COURSES ✒️
+----------
+- DIGITAL LOGIC 🖱
+- DISCRETE STRUCTURE 📈
+- PROGRAMMING TECHNIQUE 💻
+- TECHNOLOGY INFORMATION & SYSTEM 👨🏻‍💻
+- INTEGRITY AND ANTI-CORRUPTION ⚖️
+
+
 ### Skills
 
 
