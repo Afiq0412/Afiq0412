@@ -10,7 +10,6 @@ I am a student who love to gain knowledge and experience.
 * ✉️  You can contact me at [afiq041204@gmail.com](mailto:afiq041204@gmail.com)
 * 🧠  I'm learning Technology Information and System
 * 🤝  I'm open to collaborating on Project
-* ⚡  I am a quiet person and not shy person.
 
 EDUCATION🎓
 -------------
