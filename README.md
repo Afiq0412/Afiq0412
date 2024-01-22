@@ -20,7 +20,7 @@ EDUCATION🎓
  - Matriculation Science Physical 
 
 ~ Universiti Teknologi Malaysia (UTM) | 2023-now
- - SECPH Sarjana Muda Sains Komputer (Kejuruteraan Data) dengan Kepujian
+ - SECPH - Sarjana Muda Sains Komputer (Kejuruteraan Data) dengan Kepujian
 
 CERTIFICATE 📄
 -------------
