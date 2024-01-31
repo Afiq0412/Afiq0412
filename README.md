@@ -49,6 +49,7 @@ COURSES ✒️
 
 ### Socials
 WEBSITE PORTFOLIO : https://afiq0412.github.io/
+LINKEDIN : https://www.linkedin.com/in/afiq-danial-2954b4298/
 
 <p align="left"> <a href="https://www.github.com/Afiq0412" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
