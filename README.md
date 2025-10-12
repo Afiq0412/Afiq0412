@@ -30,14 +30,6 @@ CERTIFICATE 📄
 
 * 📜 MUET (3.5)
 
-COURSES ✒️
-----------
-- DIGITAL LOGIC 🖱 : https://github.com/Afiq0412/Digital-Logic
-- DISCRETE STRUCTURE 📈 : https://github.com/Afiq0412/Discrete-Structure
-- PROGRAMMING TECHNIQUE 💻 : https://github.com/Afiq0412/Programming-Technique-I
-- TECHNOLOGY INFORMATION & SYSTEM 👨🏻‍💻 : https://github.com/Afiq0412/Technologies-Information-System
-- INTEGRITY AND ANTI-CORRUPTION ⚖️ : https://github.com/Afiq0412/Integrity-and-Anti-Corruption-Course
-
 
 ### Skills
 
