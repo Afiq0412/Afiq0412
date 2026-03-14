@@ -8,12 +8,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Active Student
 --------------
 
-I am a Data Engineering student who love to gain knowledge and experience.
+I am a Data Engineering student with a strong interest in learning new technologies and continuously expanding my knowledge in the field of data and information systems.
 
-* 🌍  I'm based in Batu Pahat, Johor
+* 🌍  I'm based in Batu Pahat, Johor.
 * ✉️  You can contact me at [afiq041204@gmail.com](mailto:afiq041204@gmail.com)
-* 🧠  I'm learning Technology Information and System
-* 🤝  I'm open to collaborating on Project
+* 🧠  I'm currently learning on Computer Science with Data Engineering as a major.
+* 🤝  I'm open to collaborating on Project.
 
 EDUCATION🎓
 -------------
