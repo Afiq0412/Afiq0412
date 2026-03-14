@@ -24,8 +24,7 @@ EDUCATION🎓
 
 CERTIFICATE 📄
 -------------
-* Microsoft Certified: Azure Data Fundamentals
- - https://www.credly.com/go/X5Uju3eoGpnU7IZ9avYkvw
+* Microsoft Certified: Azure Data Fundamentals → https://www.credly.com/go/X5Uju3eoGpnU7IZ9avYkvw
 
 
 ### Skills
