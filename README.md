@@ -14,21 +14,18 @@ I am a Data Engineering student who love to gain knowledge and experience.
 EDUCATION🎓
 -------------
 ~ Sekolah Menengah Kebangsaan Permas Jaya 3 (SMKPJ3) | 2021-2022
- - Sijil Pelajaran Malaysia (SPM)
+ - Sijil Pelajaran Malaysia (SPM) | 3A 5B (1A+ 2A 3B+ 2B)
 
 ~ Kolej Matrikulasi Johor (KMJ) | 2022-2023
- - Matriculation Science Physical 
+ - Matriculation Science Physical | CGPA (4.0) & MUET (3.5)
 
 ~ Universiti Teknologi Malaysia (UTM) | 2023-now
  - SECPH - Bachelor Of Computer Science (Data Engineering) With Honours
 
 CERTIFICATE 📄
 -------------
-* 📜 SPM 3A 5B (1A+ 2A 3B+ 2B)
-
-* 📜 MATRICULATION (CGPA 4.0)
-
-* 📜 MUET (3.5)
+* Microsoft Certified: Azure Data Fundamentals
+ - https://www.credly.com/go/X5Uju3eoGpnU7IZ9avYkvw
 
 
 ### Skills
