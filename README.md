@@ -20,7 +20,7 @@ EDUCATION🎓
  - Matriculation Science Physical | CGPA (4.0) & MUET (3.5)
 
 ~ Universiti Teknologi Malaysia (UTM) | 2023-now
- - SECPH - Bachelor Of Computer Science (Data Engineering) With Honours
+ - SECPH - Bachelor Of Computer Science (Data Engineering) With Honours | CGPA (3.78)
 
 CERTIFICATE 📄
 -------------
